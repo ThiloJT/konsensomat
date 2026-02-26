@@ -161,6 +161,11 @@ button:hover {
     margin-top: 40px;
 }
 
+.footer > #infoLink {
+    display: block;
+    margin-bottom: 10px;
+}
+
 /* Open-Source-Hinweis */
 
 .open-source-hinweis {
